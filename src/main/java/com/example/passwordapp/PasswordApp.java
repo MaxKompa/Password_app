@@ -1,6 +1,6 @@
 package com.example.passwordapp;
 
-import com.example.PasswordGenerator;
+import com.example.passwordgenerator.PasswordGenerator;
 
 public class PasswordApp {
 
